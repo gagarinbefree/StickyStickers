@@ -1,0 +1,4 @@
+Peoplegroup: 192
+ConnectionString: Data Source=sql-wd;Initial Catalog=ecad_steklodom;User Id=windraw-dbo;Password=ggdhHGHGKdgett3563@#;
+MachineName: localhost
+HostName: ws454
